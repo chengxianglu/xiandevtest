@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="git_testDtk"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="clang"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkWidget\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Dtk\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkCore\;CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkGui\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="git_testDtk">
+				<Option output="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+					<Add directory="/home/chengxianglu/lu_qt/git_testDtk"/>
+					<Add directory="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk_autogen/include"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore/../DGui"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore/../DWidget"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/c++/8"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/include/clang/7.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 git_testDtk"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="git_testDtk/fast">
+				<Option output="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="clang"/>
+				<Compiler>
+					<Add option="-DQT_WIDGETS_LIB"/>
+					<Add option="-DQT_GUI_LIB"/>
+					<Add option="-DQT_CORE_LIB"/>
+					<Add directory="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+					<Add directory="/home/chengxianglu/lu_qt/git_testDtk"/>
+					<Add directory="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk_autogen/include"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore/../DGui"/>
+					<Add directory="/usr/include/libdtk-5.0.11/DCore/../DWidget"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtWidgets"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtGui"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/qt5/QtCore"/>
+					<Add directory="/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/c++/8"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/x86_64-linux-gnu/c++/8"/>
+					<Add directory="/usr/bin/../lib/gcc/x86_64-linux-gnu/8/../../../../include/c++/8/backward"/>
+					<Add directory="/usr/include/clang/7.0.1/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 git_testDtk/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="git_testDtk_autogen">
+				<Option working_dir="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 git_testDtk_autogen"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk_autogen/EWIEGA46WW/qrc_resources.cpp">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk_autogen/EWIEGA46WW/qrc_resources.cpp.rule">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/git_testDtk_autogen/mocs_compilation.cpp">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/main.cpp">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/mainwindow.cpp">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/mainwindow.h">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/resources.qrc">
+			<Option target="git_testDtk"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/resources.qrc">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Widgets\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Gui\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Qt5Core\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/DtkWidget/DtkWidgetConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkWidget\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/Dtk/DtkConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\Dtk\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/DtkCore/DtkCoreConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkCore\"/>
+		</Unit>
+		<Unit filename="/home/chengxianglu/lu_qt/git_testDtk/../../../../usr/lib/x86_64-linux-gnu/cmake/DtkGui/DtkGuiConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\lib\x86_64-linux-gnu\cmake\DtkGui\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

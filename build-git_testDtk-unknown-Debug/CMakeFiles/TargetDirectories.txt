@@ -1,0 +1,4 @@
+/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/CMakeFiles/rebuild_cache.dir
+/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/CMakeFiles/git_testDtk.dir
+/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/CMakeFiles/edit_cache.dir
+/home/chengxianglu/lu_qt/build-git_testDtk-unknown-Debug/CMakeFiles/git_testDtk_autogen.dir
