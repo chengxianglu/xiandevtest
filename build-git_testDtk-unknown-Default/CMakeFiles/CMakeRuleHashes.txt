@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a7d08ff79eba4f63ad8eddbfa6722d52 CMakeFiles/git_testDtk_autogen
+850a6c4cdfc27165db8293bf567dd0a6 git_testDtk_autogen/EWIEGA46WW/qrc_resources.cpp

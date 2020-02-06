@@ -1,0 +1,4 @@
+/home/chengxianglu/Desktop/xiandevtest/build-git_testDtk-unknown-Default/CMakeFiles/rebuild_cache.dir
+/home/chengxianglu/Desktop/xiandevtest/build-git_testDtk-unknown-Default/CMakeFiles/git_testDtk.dir
+/home/chengxianglu/Desktop/xiandevtest/build-git_testDtk-unknown-Default/CMakeFiles/edit_cache.dir
+/home/chengxianglu/Desktop/xiandevtest/build-git_testDtk-unknown-Default/CMakeFiles/git_testDtk_autogen.dir

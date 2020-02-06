@@ -1,5 +1,7 @@
 #include "mainwindow.h"
 
+#include <QDebug>
+
 MainWindow::MainWindow(QWidget *parent) : DMainWindow(parent)
 {
     initUI();
@@ -17,5 +19,5 @@ void MainWindow::initUI()
 
 void MainWindow::initConnections()
 {
-
+    qDebug() << "hahhahhha";
 }
